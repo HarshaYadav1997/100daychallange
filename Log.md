@@ -33,21 +33,14 @@ Today's Progress: I've solved the compound interest program and generate a add s
 Thoughts: it is little bit difficult for me..but then i learned some basics about how to generate random no in python
 
 Day 6: July 7, 2018 (Thursday)
-Today's Progress: I've solved the Designer Door Mat problem of Hackerrank. And also completed the HCF and LCM of N numbers program
+Today's Progress: I've solved the binarysorting program and push0'stoend and subarraysum program
 
-Thoughts I have practice a lot of examples for solving the Door Mat Problem.
+Thoughts I have practice a lot of examples for the array problems
 
-Link(s) to work:
 
-Binary Array Sorting
-Matrix Transpose
-Push Zeros To End in Array
 Day 7: July 8, 2018 (Thursday)
 Today's Progress: I've solved the Designer Door Mat problem of Hackerrank. And also completed the HCF and LCM of N numbers program
 
 Thoughts I have practice a lot of examples for solving the Door Mat Problem.
 
-Link(s) to work:
 
-Duplicate in Array
-Sub-array Sum Zero
